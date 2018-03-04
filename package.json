@@ -1,0 +1,21 @@
+{
+  "name": "minimalist-reactamvan",
+  "version": "1.0.0",
+  "description": "A simple & minimalist react app boilerplate from scratch",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minimalist-reactamvan"
+  },
+  "keywords": [
+    "react",
+    "minimalist",
+    "from",
+    "scratch",
+    "boilerplate"
+  ],
+  "author": "tamatamvan <septian.a.tama@gmail.com>",
+  "license": "MIT"
+}
