@@ -1,4 +1,6 @@
-# Minimalist Reactamvan
+# Minimalist Reactamvan [OUTDATED]
+
+It's already outdated, it's still using babel ver.6, gonna update it again with latest version of babel.
 
 This is a simple and minimalist boilerplate for react application from scratch using. It's using React 16 + Webpack 4 + Babel 6.
 
